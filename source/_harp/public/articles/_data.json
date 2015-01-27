@@ -1,0 +1,12 @@
+{
+  "back-to-the-basics": {
+    "title": "Volviendo a lo basico",
+    "date": "Jan 13, 2014",
+    "metaDescription":"Descripcion para seo del post",
+    "excerpt": "This is my first post and is very interesting to see what happens bla bla bla Morbi pretium, lacus sed posuere suscipit, sem mi vehicula augue, vitae imperdiet est lectus in diam. Integer lectus leo, convallis et dui at, dapibus luctus eros. Nam vel nunc eget quam semper dapibus quis quis felis. Nam at orci ut neque egestas molestie sit"
+  },
+    "index": {
+    "layout": "false"
+  }
+
+}

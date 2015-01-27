@@ -1,0 +1,20 @@
+  <header class="top">
+    <div class="w-container top-container">
+      <a class="w-inline-block logo-inner" href="/"><img src="/images/logo-19x19@2x.jpg" width="19" alt="54aa252b68c7567a25dcfffc_logo-19x19-1%402x.jpg"><img class="name-bar" src="/images/name-77x8-3@2x.jpg" width="77" alt="54aa261868c7567a25dd0005_name-77x8-3%402x.jpg">
+      </a>
+      <ul class="w-list-unstyled w-clearfix inner-nav">
+        <li class="nav-item "><a href="/" class="mainnav-link">Home</a>
+        </li>
+        <li class="nav-item <%- current.source == 'work' ? 'active' : '' %>"><a href="/work.html" class="mainnav-link">My Work</a>
+        </li>
+        <li class="nav-item <%- current.source == 'talks' ? 'active' : '' %>"><a href="/talks.html" class="mainnav-link">Talks&Tuts</a>
+        </li>
+        <li class="nav-item <%- current.path[0] == 'articles' ? 'active' : '' %>"><a href="/articles" class="mainnav-link">My articles</a>
+        </li>
+        <li class="nav-item <%- current.source == 'about' ? 'active' : '' %>"><a href="/about.html" class= "mainnav-link">About Me</a>
+        </li>
+        <li class="nav-item <%- current.source == 'contact' ? 'active' : '' %>"><a href="/contact.html" class="mainnav-link">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </header>

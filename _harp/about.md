@@ -1,1 +1,0 @@
-#Sinue Garcia Blog
